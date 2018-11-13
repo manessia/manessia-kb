@@ -13,8 +13,5 @@ copyright: © 2018 Manessia Turicensis
 
 # Configuration
 theme:
-  name: 'material'
-  feature:
-    tabs: true
+  name: 'rtd-dropdown'
   language: 'de'
-  
