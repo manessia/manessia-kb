@@ -30,7 +30,7 @@ Als zweites gibt es noch die "interne" Seite <https://info.manessia.ch/>, wo die
 - Github-Repo: <https://github.com/thiemo/infomanessia> (privat)
 - auto deployment bei push via Netlify
 
-Ein Passwortschutz ist nicht implementiert, momentan ist es eine "authentification by obscurity": Die Subdomain ist nicht publik und die robots.txt verbietet den Suchmaschinencrawlern ein indexieren. Dies ist zwar unbefriedigend, aber ein basic auth bei Netlify würde mit ca 20 Dollar pro Jahr zu Buche schlagen.
+Ein Passwortschutz ist nicht implementiert, momentan ist es eine "authentification by obscurity": Die Subdomain ist nicht publik und die robots.txt verbietet den Suchmaschinencrawlern ein indexieren. Dies ist zwar unbefriedigend, aber ein basic auth bei Netlify würde mit ca 20 Dollar pro Monat zu Buche schlagen.
 
 ## Knowledge Base (intern)
 
