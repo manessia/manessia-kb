@@ -2,6 +2,7 @@
 
 Autor: Filek  
 Stand: 13. November 2018
+Update: 30. Dezember 2018
 
 ---
 
@@ -9,13 +10,13 @@ Stand: 13. November 2018
 
 Generell beziehen wir praktisch alle Couleurartikel bei [PLECO St. Gallen](http://www.pleco.ch/) Sie verfügen über ein hauseigenes Atelier, welches unsere Artikel auf Mass fertigen, so auch die Mützen. Sie lagern auch speziell für uns hergestelltes Fuxen- und Burschenband als Bier- und Weinband-Versionen. Sektband haben wir nicht lagernd. Von jedem Band haben wir noch eine angefangene Rolle, sodass irgendwann eine Neubestellung nötig sein wird (Stand Nov 2018).
 
-### Mützen
+### Mützen: Otto Wesley
 
-Die Mützen werden für jeden Neu-Fux auf Mass bestellt und gefertigt. Rechtzeitig bestellen, geht einige Zeit! Kosten ca 135 Franken.
+Mützen rechtzeitig für neue Fuxen bestellen, hierzu Hutgrösse in Zentimetern des Fuxen nötig. Ausmessen, oder besser: vorhandene Mützen anprobieren lassen. Lieferant: [Otto Wesely, Wien](https://www.ottowesely.at), Kostenpunkt € 48.33 (Studentenmütze aus Tuch). Tipp: An eine Adresse in Österreich bestellen und dort abholen, ansonsten ca. 45 Franken Zollgebühren!
 
 ### Reparaturen
 
-Im Atelier von [PLECO](http://www.pleco.ch/) können auch Artikel repariert werden.
+Im Atelier von [PLECO](http://www.pleco.ch/) können Studentenartikel repariert werden.
 
 Beispiele:
 
