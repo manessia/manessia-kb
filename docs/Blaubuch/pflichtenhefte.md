@@ -1,7 +1,7 @@
 # Pflichtenhefte für Chargen
 
 Autor: Filek  
-Datum: 13. November 2018
+Datum: 13. November 2018, aktualisiert am 03. Juni 2022
 
 Im Allgemeinen sind die Pflichten der Chargen in Statuten und Comment geregelt, sollten hier jedoch noch ein wenig konkretisiert werden im Sinne einer Praxishilfe bei Neuübernahme einer Charge.
 
@@ -32,9 +32,34 @@ Es muss erwähnt sein, dass das Semesterprogramm sehr früh stehen sollte, da so
 
 Es darf nicht vergessen werden, beim Wirtepaar die Daten, an denen wir das Säli haben wollen, frühzeitig per Email zu reservieren. Wir haben das Säli nicht automatisch jeden Dienstag! Insbesondere wenn wir einen Freitag haben möchten, sollte dies sehr früh reserviert werden, da sonst Bankette hineingeplant werden.
 
-## XX
+## XX (Aktuar)
 
-## XXX
+### Nach der Wahl
+
+- Chargen in Chargenliste (Excel-File) kontrollieren und ggf. nachtragen, falls nicht vom Vorgänger erledigt
+- Mitgliederliste (Word-File) aktualisieren (Neueintritte, Chargen, Bierverwandtschaften etc.)
+- 
+
+### Eröffnungs-AC/BC
+
+- Protokollieren und Protokoll innert 2 Wochen verschicken
+
+### Schluss-AC/BC
+
+- Protokollieren und Protokoll innert 2 Wochen verschicken
+- Neu gewählte Chargen für das nächste Semester in Chargenliste (Excel-File) eintragen 
+
+## XXX (Quaestor)
+
+### Allgemeines
+
+- Präsenzkontrolle an den Anlässen (Verantwortlichkeit gemeinsam mit dem Praeses) gemäss § 52 der Statuten
+- Sanktionierung der Absenzen mit Bussen (Bussenliste führen) gemäss § 52 der Statuten
+
+### Am Eröffnungs-AC am Ende der Wahlperiode
+
+- Semesterabrechnung unter vorheriger Genehmigung durch die Revisoren bis zum Eröffnungs-A.C. dem A.C. zur Annahme unterbreiten (§ 34 Statuten)
+- Bericht über die finanzielle Lage, insbesondere Bussen und Restanzen, erstatten (§ 34 Statuten)
 
 ## Fuxmajor
 
